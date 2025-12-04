@@ -1,4 +1,4 @@
-# Movie Recommender System – Metadata-Based Similarity Engine
+#Recommender System – Metadata-Based Similarity Engine
 
 Author: Vinodhkumar Gunasekaran  
 License: MIT  
