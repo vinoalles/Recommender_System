@@ -39,15 +39,15 @@ These datasets are safe to share and contain no proprietary IMDb content.
 from recommender_analysis import recommend_by_imdb_id
 
 recommend_by_imdb_id("tt0387564", k=5)
-
+```
 Installation
 pip install -r requirements.txt
 
 
 Software Availability 
 
-ource code available from:
-https://github.com/vinodhkumarg/movie-recommender-analytics
+source code available from:
+https://github.com/vinoalles/Recommender_System
 
 Archived source code available from:
 https://doi.org/10.5281/zenodo.17822412
