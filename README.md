@@ -62,7 +62,7 @@ If you use this software, please cite:
 
 Gunasekaran, V. (2025).  
 Movie Metadata Recommender System – Source Code [Software].  
-Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Zenodo. https://doi.org/10.5281/zenodo.17822412
 
 Contact
 
